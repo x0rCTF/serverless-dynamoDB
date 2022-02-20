@@ -1,0 +1,36 @@
+///  Creating a new employee
+
+{
+  "first_name": "Hristijan",
+  "last_name": "D.",
+  "city": "Prilep",
+  "email": "hristijan@group2.org",
+  "skills": ["Organization", "Linux OS", "DynamoDB"]
+}
+
+
+{
+  "first_name": "Igor",
+  "last_name": "K.",
+  "city": "Prilep",
+  "email": "ig0r@group2.org",
+  "skills": ["Communication", "Node.js", "DynamoDB"]
+}
+
+
+{
+  "first_name": "Filip",
+  "last_name": "K.",
+  "city": "Skopje",
+  "email": "filip@group2.org",
+  "skills": ["Coding", "Machine learning", "Networks"]
+}
+
+
+{
+  "first_name": "Aleksandar",
+  "last_name": "S.",
+  "city": "Prilep",
+  "email": "aleksandar@group2.org",
+  "skills": ["Java", "Perseverance", "Leadership"]
+}

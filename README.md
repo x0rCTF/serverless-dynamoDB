@@ -1,2 +1,2 @@
-# serverless-dynamoDB
+# dynamoDB
 Homework 17
