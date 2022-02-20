@@ -4,4 +4,4 @@
   - Add permissions to lambda functions to access DynamoDB table  ✅
   - Use DynamoDB table to persist and read data from api calls  ✅
   - Send your code  ❌
-  - Send screenshots from creted DynamoDB ❌
+  - Send [screenshots](https://github.com/x0rCTF/serverless-dynamoDB/tree/main/images) from creted DynamoDB ❌
