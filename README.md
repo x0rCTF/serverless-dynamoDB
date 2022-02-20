@@ -1,4 +1,4 @@
-### Homework 17
+### h17
 
   - Create DynamoDB in resources section in Serverless.yml  ✅
   - Add permissions to lambda functions to access DynamoDB table  ✅
